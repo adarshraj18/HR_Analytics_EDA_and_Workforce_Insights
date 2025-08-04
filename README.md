@@ -1,6 +1,9 @@
 # **HR Analytics: EDA & Workforce Insights (Power BI)**  
 
-## **0. About the Dataset**  
+
+**Dataset Link:** [Human Resources Data Set](https://www.kaggle.com/datasets/rhuebner/human-resources-data-set)
+
+## **About the Dataset**  
 This project uses an HR dataset containing **1,200+ employee records** to analyze workforce trends and uncover key drivers of **attrition, performance, and compensation**.  
 
 **Dataset Features:**  
